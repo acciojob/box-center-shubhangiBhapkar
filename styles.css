@@ -1,1 +1,18 @@
-/*  your css code here. If applicable */
+body{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+}
+
+.box{
+	border:2px solid black;
+	width:200px;
+	height:200px;
+	background-color:lightblue;
+	text-align:center;
+	line-height:200px;
+  
+	
+	
+}
